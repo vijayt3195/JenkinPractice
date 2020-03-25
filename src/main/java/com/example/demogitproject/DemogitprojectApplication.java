@@ -10,6 +10,7 @@ public class DemogitprojectApplication {
 		SpringApplication.run(DemogitprojectApplication.class, args);
 		
 		System.out.println("Sample Github project");
+		System.out.println("Sample Github Demo project");
 	}
 
 }
